@@ -632,6 +632,7 @@
 				CAA7989F1E0147BC00FB6C15 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CACE86431DDB607D00DBC537 /* Build configuration list for PBXProject "Preserve" */ = {
 			isa = XCConfigurationList;
